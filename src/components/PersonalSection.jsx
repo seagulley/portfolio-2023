@@ -8,7 +8,7 @@ function PersonalSection() {
       
       <div className="clubs-row">
         <h3>clubs</h3>
-        <p>alberta competitive programming, ada's team, tiger skate club mentor</p>
+        <p>alberta competitive programming, ada's team, tiger skate club</p>
       </div>
       
       <div className="hobbies-list">
