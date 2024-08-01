@@ -16,8 +16,8 @@ function App() {
         <IntroSection />
       </ParallaxSection>
       <ParallaxSection
-        imagePath="src/assets/florama.jpg"
-        height={1900}
+        imagePath="src/assets/florama.png"
+        height={2100}
         offset={17}
       >
           <ExperienceSection />
